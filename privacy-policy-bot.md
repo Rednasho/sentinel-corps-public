@@ -28,9 +28,9 @@ No. We do not share your data with third parties, except:
 
 ## 5) How can users contact us with concerns?
 Users can contact us through the following channels:
-- Discord: Contact an administrator within the Sentinel Corps server.
-- Website: Via the contact form at https://sentinelcorps.space/contact
-- Email: deepspacesentinelcorps@gmail.com
+- Discord: Contact one of the staff members within the Sentinel Corps server.
+- Website: Via the contact form at https://sentinelcorps.space/contact (currently unavailable)
+- Email us: deepspacesentinelcorps@gmail.com
 
 ## 6) How can users request data deletion?
 Users can request deletion of their stored data by:
