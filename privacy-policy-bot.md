@@ -1,4 +1,4 @@
-# Privacy Policy – Sentinel Corps Sync Bot
+# Privacy Policy – Sentinel Corps Sync
 
 ## 1) What data is being collected?
 - When using the Sentinel Corps Sync Bot, the following data is collected:
