@@ -1,4 +1,4 @@
-# Terms of Service – Sentinel Corps Sync Bot
+# Terms of Service – Sentinel Corps Sync
 
 _Last updated: July 10, 2025_
 
