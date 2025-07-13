@@ -50,7 +50,7 @@ The Bot is provided "as is" without warranties of any kind. We are not liable fo
 
 If you have any questions or concerns regarding these Terms, you can contact us through:
 - Website: [https://sentinelcorps.space/contact](https://sentinelcorps.space/contact) (Currently unavailable)
-- Email us: [tos@sentinelcorps.space](mailto:deepspacesentinelcorps@gmail.com)
+- Email us: [deepspacesentinelcorps@gmail.com](mailto:deepspacesentinelcorps@gmail.com)
 - Discord: Reach out to an administrator in the [Sentinel Corps](https://discord.gg/Kb9xSeqYe8) server
 
 ---
